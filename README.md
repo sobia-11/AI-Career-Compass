@@ -148,7 +148,7 @@ The NLP module automatically extracts useful information from the text before ma
 
 ### ⚙️ How It Works
 
-![How It Works](images/How%20it%20works.png)
+![How It Works](images/how%20it%20works.png)
 ---
 
 ## 🛠️ Technology Stack
