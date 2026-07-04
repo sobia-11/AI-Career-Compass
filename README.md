@@ -222,7 +222,7 @@ AI-Career-Compass/
 │   └── images/
 │
 └── images/
-    ├── omepage.png
+    ├── homepage.png
     ├── Student Assessment Form.png
     ├── Career Prediction Results.png
     ├── Skill Gap Analysis & Model Comparison.png
