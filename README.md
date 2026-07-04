@@ -94,7 +94,7 @@ The NLP module automatically extracts useful information from the text before ma
 
 ### 🏠 Homepage
 
-![Homepage](images/Homepage.png)
+![Homepage](images/homepage.png)
 
 ---
 
