@@ -222,7 +222,7 @@ AI-Career-Compass/
 │   └── images/
 │
 └── images/
-    ├── Homepage.png
+    ├── omepage.png
     ├── Student Assessment Form.png
     ├── Career Prediction Results.png
     ├── Skill Gap Analysis & Model Comparison.png
@@ -231,7 +231,7 @@ AI-Career-Compass/
     ├── NLP-Based Career Input.png
     ├── NLP Skill Extraction Analysis.png
     ├── Model Comparison.png
-    └── How it works.png
+    └── how it works.png
 ```
 
 ---
@@ -330,15 +330,9 @@ BS Artificial Intelligence Student
 
 Institute of Space Technology (IST), Islamabad
 
-GitHub:
-https://github.com/sobia-11
-
-LinkedIn:
-https://linkedin.com/in/sobia-shaheen01
-
-Email:
-sobiashaheen1039@gmail.com
-
+- **GitHub:** https://github.com/sobia-11
+- **LinkedIn:** https://linkedin.com/in/sobia-shaheen01
+- **Email:** sobiashaheen1039@gmail.com
 ---
 
 ## 📄 License
